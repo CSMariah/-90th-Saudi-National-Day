@@ -63,7 +63,9 @@ background-color: #d8d3cd;
 #contact img:hover {
     background-color: #e0ece4;
 }
-
+.socialApp {
+padding: 20px; 
+}
 /* Footer */
 #footer {
   background-color: #797a7e;
