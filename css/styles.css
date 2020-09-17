@@ -1,0 +1,73 @@
+body {
+
+}
+h1 {
+  font-family: 'Acme', sans-serif;
+  color: #206a5d;
+}
+.content {
+  text-align: center;
+  margin: auto;
+}
+/* Navnar Section */
+#nav {
+position: fixed;
+width: 100%;
+background-color: #99b898;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: black;
+}
+.nav-link {
+  font-size: 1rem;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+/* Title Section */
+.KP {
+  display: inline-block;
+}
+#title {
+  padding-top: 90px;
+  padding-bottom: 50px;
+  background-color: #f1f1e8;
+}
+
+/* Card Section */
+#card {
+  padding-top: 90px;
+  padding-bottom:90px;
+background-color: #d8d3cd;
+}
+
+/* Video Section */
+#videoYoutube {
+  background-color: #e0ece4;
+  padding-top: 90px;
+  padding-bottom:90px;
+}
+
+/* Contact Section  */
+#contact {
+  padding-top: 90px;
+  padding-bottom:90px;
+  background-color: #f7f2e7;
+}
+#contact img:hover {
+    background-color: #e0ece4;
+}
+
+/* Footer */
+#footer {
+  background-color: #797a7e;
+  padding-top: 50px;
+  padding-bottom:50px;
+  color: white;
+}
